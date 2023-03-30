@@ -5,7 +5,7 @@ import openai
 app = Flask(__name__)
 
 # Set OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Define system message
 SYSTEM_MESSAGE = "You are a doctor and you propose at most three disease that a patient might be suffering from with some context given the symptoms starting with best choice"
