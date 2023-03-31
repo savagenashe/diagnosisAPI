@@ -1,3 +1,2 @@
-﻿flask==pi
-dotenv
-openai
+﻿flask==2.2.3
+dotenv==1.0.0
